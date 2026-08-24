@@ -1,0 +1,10 @@
+{
+    "CLIP_Top_Prediction": "crocodile",
+    "CLIP_Class_Probabilities": {
+        "crocodile": 0.31586647033691406,
+        "deer": 0.2953958511352539,
+        "gorilla": 0.2452877014875412,
+        "leopard": 0.14344996213912964
+    },
+    "DINOv2_Embedding_Dim": 384
+}
