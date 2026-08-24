@@ -49,6 +49,11 @@ P(y = c \mid \mathbf{x}) = \frac{\exp(\tau \cdot \mathbf{v}_{\mathbf{x}}^\top \m
 
 ---
 
+### 2. Qualitative CLIP & DINOv2 Zero-Shot Visual Inspection
+![CLIP & DINOv2 Zero-Shot Visual Demo](results/zero_shot_classification_demo.png)
+
+---
+
 ## 🔮 Future Work & Expansion Roadmap
 
 1. **GroundingDINO & Segment Anything (SAM) Integration**:
