@@ -4,6 +4,8 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.5%2B-ee4c2c.svg)](https://pytorch.org)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow.svg)](https://huggingface.co)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 **Author:** Bhanu Vignesh Naidu Ganeshna  
 **Course:** Image Processing & Computer Vision (Practical Project)  
@@ -77,6 +79,20 @@ pip install -r requirements.txt
 python main.py
 ```
 
+### 3. Run Automated Unit Tests
+```bash
+python3 -m unittest discover -s tests -v
+```
+
+---
+
+## 🤝 Contributing & Community
+
+Contributions, feature ideas, and issue reports are warmly welcomed!
+- Review our [Contributing Guidelines](CONTRIBUTING.md) for local environment setup, testing, and PR expectations.
+- Adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) in all community interactions.
+- Report any potential security issues via our [Security Policy](SECURITY.md).
+
 ---
 
 ### 📝 Declaration of Original Work
@@ -84,4 +100,4 @@ python main.py
 I confirm that this project was designed, implemented, and documented by me for the Image Processing & Computer Vision coursework.
 
 **Author:** Bhanu Vignesh Naidu Ganeshna  
-**License:** MIT License.py
+**License:** [MIT License](LICENSE)
